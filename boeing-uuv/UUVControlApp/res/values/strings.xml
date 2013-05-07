@@ -1,0 +1,23 @@
+<resources>
+
+    <string name="app_name">UUVControlApp</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="information_panel">Information Panel</string>
+    <string name="right">RIGHT</string>
+    <string name="control_panel">Control Panel</string>
+    <string name="up">RISE</string>
+    <string name="down">DIVE</string>
+    <string name="left">LEFT</string>
+    <string name="gyroscope_measurements">Gyroscope</string>
+    <string name="togglebutton">ToggleButton</string>
+    <string name="input_depth_">Input Depth:</string>
+    <string name="go">Go</string>
+    <string name="movement_amp_position">Movement</string>
+    <string name="depth_">Depth:</string>
+    <string name="y_">Y:</string>
+    <string name="z_">Z:</string>
+    <string name="x_">X:</string>
+
+</resources>
